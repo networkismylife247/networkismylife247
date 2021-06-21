@@ -2,7 +2,7 @@
 - 👀 I’m interested in Serving others while learning new skills
 - 🌱 I’m currently learning CCNA / Linux / Cybersecurity / Julia & GOlang
 - 💞️ I’m looking to collaborate on Projects that demonstrate experience
-- 📫 How to reach me ...
+- 📫 How to reach me ...Catch me outside...
 
 <!---
 networkismylife247/networkismylife247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
